@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main ()
+{
+int a = 22;
+int b = 22; //Init
+int d;
+d=a+b;
+c="hello";
+}

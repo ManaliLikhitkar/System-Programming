@@ -1,0 +1,11 @@
+START 0
+l1 add areg ='1'
+- sub - 2
+l2 mul breg c
+l2 div creg ='1'
+a ds - 10
+c ds - 9
+a equ - 20
+- ltorg - -
+l1 add areg ='2'
+- end - -
